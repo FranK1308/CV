@@ -7,7 +7,7 @@ using namespace std;
 
 	int i,j,a[20],b[20],z,y[20][20],f,n,s1=9,s2=9,w1=1,w2=2,w3=3,w4=3,v1=1,v2=2,v3=3,v4=3;
 	int d[20],e[20],r,ni,t,u,i1,j1,i2,j2,i3,j3,ii=100,jj=100,iii=100,jjj=100,pn;
-	char c[20],x[20][20],m[20][20],q='÷',k[20][20],l[20][20],o='X',p='~',h[20],nj;
+	char c[20],x[20][20],m[20][20],q='Ã·',k[20][20],l[20][20],o='X',p='~',h[20],nj;
 	string g,ime1,ime2;
 
 class Brodovi {
